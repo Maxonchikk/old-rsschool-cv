@@ -26,3 +26,14 @@ const rentalCarCost = (d) => {
   }
 }
 ```
+# Education
+* Gomel State Techical University in 2014/2019
+* Udemy JS: https://www.udemy.com/course/javascript_full/
+* Udemy Git: https://www.udemy.com/course/git-alishev/learn/
+* Skillbox: https://skillbox.by/course/frontend-pro-expert/
+* Code-ru HTML: https://ru.code-basics.com/languages/html
+* Code-ru CSS: https://ru.code-basics.com/languages/css
+# Languages
+* Russian - native;
+* English - A1;
+* Italian - base. 
